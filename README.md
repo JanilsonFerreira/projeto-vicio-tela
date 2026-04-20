@@ -1,4 +1,4 @@
-# Projeto Final - Analista de Vício em Telas
+# Analista de Vício em Telas
 
 Projeto desenvolvido para o curso **IA e Soft Skills para Programadores - Online - 3.0** da **Geração Tech**. O código é baseado em projeto de exemplo adquirido ao longo do curso.
 
